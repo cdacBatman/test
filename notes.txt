@@ -1,1 +1,1 @@
-"devops is important" 
+"devops is important for development" 
