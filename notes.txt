@@ -1,1 +1,3 @@
+
 "devops is important having great exposure" 
+"devops is important for development" 
